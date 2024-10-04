@@ -1,2 +1,2 @@
-# test-website
-at some point I need to update this with my own research
+# Personal site with info
+Updating with projects and research I will be involved in - stay tuned!
